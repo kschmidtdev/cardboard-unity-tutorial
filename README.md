@@ -5,6 +5,7 @@ A tutorial for getting a Google Cardboard Unity3D project up-and-running.
 2. [Download the Google Cardboard Unity SDK](https://developers.google.com/cardboard/unity/download)
 
 Create a test scene instructions:
+
 1. Run Unity
 2. New Project
 3. Leave as 3D
